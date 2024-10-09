@@ -1,49 +1,57 @@
 # Software Requirements Specification
-## For
+## For "PlayLand"
+
 Version 0.1
 Prepared by Lavrinenko Alina, Boiko Polina
 # Table of Contents 
+* [Revision History](#Revision-History)
 * 1 [Introduction](#1-Introduction)
-* 1.1 [Document Purpose](#11-Document-Purpose)
-* 1.2 [Product Scope](#12-Product-Scope)
-* 1.3 [References](#13-References)
-* 1.4 [Document Overview](#14-Document-Overview)
+  * 1.1 [Document Purpose](#11-Document-Purpose)
+  * 1.2 [Product Scope](#12-Product-Scope)
+  * 1.3 [References](#13-References)
+  * 1.4 [Document Overview](#14-Document-Overview)
 * 2 [Product Overview](#2-Product-Overview)
-* 2.1 [Product Perspective](#21-Product-Perspective)
-* 2.2 [Product Functions](#22-Product-Functions)
-* 2.3 [Product Constraints](#23-Product-Constraints)
-* 2.4 [User Characteristics](#24-User-Charecteristics)
-* 2.5 [Apportioning of Requirements](#25-Apportioning-of-Requirements)
+  * 2.1 [Product Perspective](#21-Product-Perspective)
+  * 2.2 [Product Functions](#22-Product-Functions)
+  * 2.3 [Product Constraints](#23-Product-Constraints)
+  * 2.4 [User Characteristics](#24-User-Charecteristics)
+  * 2.5 [Apportioning of Requirements](#25-Apportioning-of-Requirements)
 * 3 [Requirements](#3-Requirements)
-# 1. Introduction
-## 1.1 Document Purpose
+## Revision History
+| Name | Date    | Reason For Changes  | Version   |
+| ---- | ------- | ------------------- | --------- |
+|      |         |                     |           |
+|      |         |                     |           |
+|      |         |                     |           |
+## 1. Introduction
+### 1.1 Document Purpose
 The purpose of the SRS is to store all project requirements and other important information. SRS's intended audience is our team.
-## 1.2 Product Scope
+### 1.2 Product Scope
 This game is a collection of different mini-games. Players can choose which game they want to play. The purpose of this game is to be useful while we have a power outage.
-## 1.3 References
+### 1.3 References
 Our references is different mini games like 2048, tic tak toe, snake, water sort, word finder, sudoku, 15 puzzle, gallows.
-## 1.4 Document Overview
+### 1.4 Document Overview
 The remaine of the document contains a product overview, requirements, functional and technical specifications.
-# 2 Product Overview
-## 2.1 Product Perspective
+## 2 Product Overview
+### 2.1 Product Perspective
 It's a new, self-contained product.
-## 2.2 Product Functions
+### 2.2 Product Functions
 The game must allow the user to:
 1. Select a game 
 2. Create an account
 3. Choose a game mode (easy, medium, hard) where possible.
 4. To turn off the music
 5. To get some awards
-## 2.3 Product Constraints
+### 2.3 Product Constraints
 This game will be made for mobile phones. In this game we'll use cel-shading graphics. 
-## 2.4 User Characteristics
+### 2.4 User Characteristics
 Main client of this game is Ukrainian, because it'll be in Ukrainian language and this games will be offline, so Ukrainians can use it during power outage.
-## 2.5 Apportioning of Requirements
+### 2.5 Apportioning of Requirements
 Requirements that may be delayed until future versions of the system:
 1. 15 mini-games (we can make less to start with)
 2. Awards (we can gradually add more and more awards)
 3. Game currency
-# 3 Requirements
+## 3 Requirements
 Requirements:
 1. The game will contain 15 mini-games (ranging from simple games for relaxation to educational games to connect thinking);
 2. The game will have its own game currency (for which the player will be able to buy various bonuses, tips or bonus levels);
