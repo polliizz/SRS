@@ -1,4 +1,9 @@
 # Software Requirements Specification
+## For
+Version 0.1
+Prepared by Lavrinenko Alina, Bo
+# Table of Contents 
+* 1 [Introduction](#1-Introduction)
 # 1. Introduction
 ## 1.1 Document Purpose
 The purpose of the SRS is to store all project requirements and other important information. SRS's intended audience is our team.
