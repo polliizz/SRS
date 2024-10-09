@@ -1,9 +1,20 @@
 # Software Requirements Specification
 ## For
 Version 0.1
-Prepared by Lavrinenko Alina, Bo
+Prepared by Lavrinenko Alina, Boiko Polina
 # Table of Contents 
 * 1 [Introduction](#1-Introduction)
+* 1.1 [Document Purpose](#11-Document-Purpose)
+* 1.2 [Product Scope](#12-Product-Scope)
+* 1.3 [References](#13-References)
+* 1.4 [Document Overview](#14-Document-Overview)
+* 2 [Product Overview](#2-Product-Overview)
+* 2.1 [Product Perspective](#21-Product-Perspective)
+* 2.2 [Product Functions](#22-Product-Functions)
+* 2.3 [Product Constraints](#23-Product-Constraints)
+* 2.4 [User Characteristics](#24-User-Charecteristics)
+* 2.5 [Apportioning of Requirements](#25-Apportioning-of-Requirements)
+* 3 [Requirements](#3-Requirements)
 # 1. Introduction
 ## 1.1 Document Purpose
 The purpose of the SRS is to store all project requirements and other important information. SRS's intended audience is our team.
